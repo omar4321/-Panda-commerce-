@@ -1,0 +1,33 @@
+.bg-carousel {
+  background-color: #feeae9;
+}
+
+.img-size {
+  width: 70px;
+  height: 93px;
+}
+
+.subscribe {
+  background-color: rgb(252, 234, 232);
+  height: 300px;
+}
+
+.subscribe input {
+  width: 340px;
+  height: 55px;
+  border-radius: 10px;
+  border: none;
+}
+
+.subscribe button {
+  width: 90px;
+  height: 40px;
+  border-radius: 10px;
+  color: #feeae9;
+}
+.panda-hovar {
+  transition: 5s all;
+}
+.panda-hovar:hover {
+  transform: scale(1.1);
+}
