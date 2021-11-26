@@ -8,5 +8,6 @@
 
  - html css 
  -  figma
+ -  responsive bootstrap
 
 
